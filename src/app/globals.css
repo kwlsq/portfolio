@@ -1,13 +1,15 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fafafa;
+  --foreground: #272727;
 }
 
 @theme {
   --color-primary: #4ff8d2;
   --color-secondary: #121b22;
+  --color-black: #272727;
+  --color-white: #fafafa;
 }
 
 @theme inline {
@@ -16,14 +18,10 @@
   --font-manrope: var(--font-manrope);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
+  margin: 0 100px;
+  box-sizing:border-box;
+  font-size: 16px;
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-manrope), Arial, Helvetica, sans-serif;
