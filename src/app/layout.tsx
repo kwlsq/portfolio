@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
-import { Manrope } from "next/font/google";
+import { Zen_Kaku_Gothic_New } from "next/font/google";
 import "./globals.css";
 
-const manrope = Manrope({
-  variable: "--font-manrope",
+const zenkaku = Zen_Kaku_Gothic_New({
+  weight: ["400", "700"],
+  style: ["normal"],
+  variable: "--font-zenkaku",
   subsets: ["latin"],
 });
 
@@ -21,7 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${manrope.variable} antialiased`}
+        className={`${zenkaku.variable} antialiased`}
       >
         {children}
       </body>
