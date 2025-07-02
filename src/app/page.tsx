@@ -1,4 +1,5 @@
 import { HeroSection } from "./components/HeroSection";
+import { TechStacksSection } from "./components/TechStacksSection";
 
 export default function Home() {
   return (
@@ -7,6 +8,7 @@ export default function Home() {
         Website is under construction.
       </div>
       <HeroSection />
+      <TechStacksSection />
     </main>
   );
 }
