@@ -3,6 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main>
+      <div className="text-center bg-yellow-300 text-black font-bold">Website is under construction.</div>
       <div className="relative w-full h-150 overflow-hidden">
         <Image
           src={"/img/hero-bg.png"}
