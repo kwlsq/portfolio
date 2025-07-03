@@ -1,0 +1,79 @@
+[
+    {
+        "company": "PT. Esensi Solusi Buana",
+        "position": "Frontend Developer",
+        "duration": "December 2022 - September 2023",
+        "location": "Tangerang Selatan, Banten, Indonesia",
+        "url": "https://www.esb.id",
+        "description": "Developed ESB POSLite Features, such as: KYC, menu management, monthly report page, reporting pages, dashboard, attendance, integration to Grabfood, etc. Also, developed a design system that'd be used across multiple projects.",
+        "technologies": [
+            "Angular",
+            "JavaScript",
+            "TypeScript",
+            "PostgreSQL"
+        ]
+    },
+    {
+        "company": "Artisan Professionnel",
+        "position": "Shopify web developer & digital marketing (Freelance)",
+        "duration": "March 2021 - August 2023",
+        "location": "Remote",
+        "url": "https://artisanprofessionnel.com",
+        "description": "Initialized and developed a Shopify store for a client, including product management, theme customization, and digital marketing strategies to enhance online presence and sales.",
+        "technologies": [
+            "Shopify",
+            "HTML",
+            "CSS",
+            "Google Analytics",
+            "Facebook Ads"
+        ]
+    },
+    {
+        "company": "BitHealth",
+        "position": "Associate Software Engineer",
+        "duration": "October 2020 - November 2022",
+        "location": "Tangerang, Banten, Indonesia",
+        "url": "https://bithealth.co.id",
+        "description": "Developed and maintained web applications using Angular and Node.js. Worked on various projects, including COVID test, queueing system, pharmachy monitoring, electronic medical records system, etc.",
+        "technologies": [
+            "Angular",
+            "JavaScript",
+            "TypeScript",
+            "Node.js",
+            "PostgreSQL",
+            "Docker",
+            "Jest",
+            "Socket.IO"
+        ]
+    },
+    {
+        "company": "OneDeca",
+        "position": "Junior Mobile Developer (Internship)",
+        "duration": "July 2020 - September 2022",
+        "location": "Tangerang Selatan, Banten, Indonesia",
+        "url": "",
+        "description": "Developed and maintained mobile applications using React Native. Worked on various projects, including Hijabenka and Berrybenka Apps.",
+        "technologies": [
+            "React Native",
+            "JavaScript",
+            "TypeScript"
+        ]
+    },
+    {
+        "company": "PT. Cipta Srigati Lestari",
+        "position": "Web Developer (Internship)",
+        "duration": "July 2017 - September 2017",
+        "location": "Kemang, Jakarta Selatan, Indonesia",
+        "url": "https://www.cslgroup.co.id/",
+        "description": "Developed API for smart card and Wakaf NU website.",
+        "technologies": [
+            "C#",
+            "Bootstrap",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "TypeScript",
+            "MySQL"
+        ]
+    }
+]

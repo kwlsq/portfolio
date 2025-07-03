@@ -1,5 +1,6 @@
 import { HeroSection } from "./components/HeroSection";
 import { TechStacksSection } from "./components/TechStacksSection";
+import { WorksSection } from "./components/WorksSection";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       </div>
       <HeroSection />
       <TechStacksSection />
+      <WorksSection />
     </main>
   );
 }
