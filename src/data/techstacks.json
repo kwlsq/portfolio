@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Next.js",
+        "src": "/icon/next.svg",
+        "alt": "Next.js logo"
+    },
+    {
+        "name": "React",
+        "src": "/icon/react.svg",
+        "alt": "React logo"
+    },
+    {
+        "name": "Angular",
+        "src": "/icon/angular.svg",
+        "alt": "Angular logo"
+    },
+    {
+        "name": "Tailwind CSS",
+        "src": "/icon/tailwind.svg",
+        "alt": "Tailwind CSS logo"
+    },
+    {
+        "name": "Zustand",
+        "src": "/icon/zustand.svg",
+        "alt": "Zustand CSS logo"
+    },
+    {
+        "name": "JavaScript",
+        "src": "/icon/js.png",
+        "alt": "JavaScript logo"
+    },
+    {
+        "name": "TypeScript",
+        "src": "/icon/ts.svg",
+        "alt": "TypeScript logo"
+    },
+    {
+        "name": "Figma",
+        "src": "/icon/figma.svg",
+        "alt": "Figma logo"
+    },
+    {
+        "name": "Adobe Photoshop",
+        "src": "/icon/photoshop.svg",
+        "alt": "Adobe Photoshop logo"
+    },
+    {
+        "name": "Node.js",
+        "src": "/icon/nodejs.svg",
+        "alt": "Node.js logo"
+    },
+    {
+        "name": "Spring Boot",
+        "src": "/icon/spring-boot.svg",
+        "alt": "Spring Boot logo"
+    },
+    {
+        "name": "PostgreSQL",
+        "src": "/icon/postgre.svg",
+        "alt": "PostgreSQL logo"
+    },
+    {
+        "name": "Redis",
+        "src": "/icon/redis.png",
+        "alt": "Redis logo"
+    },
+    {
+        "name": "Docker",
+        "src": "/icon/docker.svg",
+        "alt": "Docker logo"
+    },
+    {
+        "name": "Google Cloud Platform",
+        "src": "/icon/gcp.svg",
+        "alt": "Google Cloud Platform logo"
+    },
+    {
+        "name": "Git",
+        "src": "/icon/git.png",
+        "alt": "Git logo"
+    },
+    {
+        "name": "Vercel",
+        "src": "/icon/vercel.svg",
+        "alt": "Vercel logo"
+    },
+    {
+        "name": "Jest",
+        "src": "/icon/jest.svg",
+        "alt": "Jest logo"
+    }
+]
