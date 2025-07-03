@@ -1,4 +1,4 @@
-import workexperiences from '../data/workExperiences.json';
+import workexperiences from '../data/workexperiences.json';
 
 export function getWorkExperiences() {
     return workexperiences;
